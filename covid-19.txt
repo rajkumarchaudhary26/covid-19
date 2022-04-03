@@ -1,0 +1,7 @@
+Dependencies to be installed:
+pip install pyit2fls
+pip install numpy
+pip install matplotlib
+pip install pandas
+
+Main program file: main_program.py
